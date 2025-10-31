@@ -7,4 +7,4 @@ data = {
 beteseb = pd.DataFrame(data)
 print(beteseb.shape)
 print(beteseb.head)
-print(beteseb.columns.to_lis)
+print(beteseb.columns.to_list())
